@@ -47,7 +47,7 @@ A Telegram bot built using the `pyTelegramBotAPI` library. It provides users wit
 
 ### [🌐 Personal Portfolio Website](https://github.com/olegnck404/olegnck404.github.io)
 
-My personal portfolio website showcasing my projects and skills. Built with HTML, CSS, and JavaScript, and styled using Bootstrap.
+My personal portfolio website showcasing my projects and skills. Built with HTML, CSS, and JavaScript.
 
 ### [🧮 OOP Practice Project](https://github.com/olegnck404/DyadechkoPractic)
 
