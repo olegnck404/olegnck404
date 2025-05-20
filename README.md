@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Telegram-@olegnck-blue?style=flat-square&logo=telegram" alt="Telegram" />
   </a>
   <a href="mailto: olegcnkdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-red?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-olegnckdev@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@ A Java application developed as part of my Object-Oriented Programming practice.
 ## 📫 Let's Connect
 
 - Telegram: [@olegnck](https://t.me/olegnck)
-- Email: your.email@example.com
+- Email: olegcnkdev@gmail.com
 - Portfolio: [olegnck404.github.io](https://olegnck404.github.io)
 
 ---
