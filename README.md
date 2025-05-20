@@ -68,7 +68,7 @@ A Java application developed as part of my Object-Oriented Programming practice.
 ## 📫 Let's Connect
 
 - Telegram: [@olegnck](https://t.me/olegnck)
-- Email: olegcnkdev@gmail.com
+- Email: [olegdadecko1@gmail.com](mailto:olegdadecko1@gmail.com)
 - Portfolio: [olegnck404.github.io](https://olegnck404.github.io)
-
+- LinkedIn: [Oleh Dyadechko](https://www.linkedin.com/in/oleh-dyadechko-71b528353)
 ---
