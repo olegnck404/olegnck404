@@ -1,22 +1,45 @@
-# 👋 Hi there! I'm Oleh Dyadechko
+<h1 align="center">Hi there 👋, I'm Oleh Dyadechko</h1>
+<h3 align="center">🧑‍💻 18 y.o. Frontend Developer | Sales Manager with 2 y. experience</h3>
 
-🎓 Junior Bachelor in Software Engineering  
-📍 Poltava, Ukraine  
-💻 Web Developer | Learning Android Development  
-📱 Telegram: [@olegnck](https://t.me/olegnck)  
-🌐 Portfolio: [olegnck404.github.io](https://olegnck404.github.io)
+<p align="center">
+  <a href="https://github.com/olegnck404">
+    <img src="https://komarev.com/ghpvc/?username=olegnck404&style=flat-square&color=blue" alt="Profile views" />
+  </a>
+  <a href="https://t.me/olegnck">
+    <img src="https://img.shields.io/badge/Telegram-@olegnck-blue?style=flat-square&logo=telegram" alt="Telegram" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-your.email@example.com-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Junior Bachelor in Software Engineering
+- 🌍 Based in Poltava, Ukraine
+- 💻 Passionate about building web applications with React and TypeScript
+- 📱 Currently exploring Android development
+- 🧠 Always eager to learn new technologies and improve my skills
+- 🛍️ Sales Manager with 2 years of professional experience
+- 📱 Using Google Pixel 7a & Apple MacBook Air M1 2020
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, Python, HTML, CSS, JavaScript
-- **Frameworks & Libraries:** Bootstrap, pyTelegramBotAPI
-- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,react,vite,tailwindcss,html,css,javascript,python,java,sql,docker,git,github,vscode,figma,linux" alt="Tech Stack" />
+</p>
 
 ---
 
 ## 🚀 Projects
+
+### [📊 MAO Admin Panel](https://github.com/olegnck404/mao-admin-panel)
+
+An administrative panel for managing the MAO system. Built with React and TypeScript, following Clean Architecture principles. Features include a modular structure, CI/CD integration with GitHub Actions, and comprehensive documentation.
 
 ### [📱 Telegram Bot for Redmi Note 5](https://github.com/olegnck404/telegram-bot-Python)
 
@@ -34,10 +57,18 @@ A Java application developed as part of my Object-Oriented Programming practice.
 
 ## 📈 GitHub Stats
 
-![Oleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegnck404&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olegnck404&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olegnck404&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olegnck404&theme=transparent" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-Feel free to reach out to me on [Telegram](https://t.me/olegnck) or check out my [portfolio website](https://olegnck404.github.io) for more information about my work.
+- Telegram: [@olegnck](https://t.me/olegnck)
+- Email: your.email@example.com
+- Portfolio: [olegnck404.github.io](https://olegnck404.github.io)
+
+---
