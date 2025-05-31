@@ -8,8 +8,8 @@
   <a href="https://t.me/olegnck">
     <img src="https://img.shields.io/badge/Telegram-@olegnck-blue?style=flat-square&logo=telegram" alt="Telegram" />
   </a>
-  <a href="mailto: olegcnkdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-olegnckdev@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+  <a href="mailto: olegdadecko1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-olegdadecko1@gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
 
