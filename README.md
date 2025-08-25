@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Oleh Dyadechko</h1>
-<h3 align="center">🧑‍💻 19 y.o. Developer | Sales Manager with 2 y. experience</h3>
+<h3 align="center">👨‍💻 19 y.o. Developer | 💼 Sales Manager with 2 y. experience</h3>
 
 <p align="center">
   <a href="https://github.com/olegnck404">
@@ -15,50 +15,51 @@
 
 ---
 
-## ​​​ About Me
+## 👨‍🎓 About Me
 
-- **Junior Bachelor in Software Engineering**
-- **Based in Poltava, Ukraine** 0
-- Passionate about building web applications with React and TypeScript
-- Currently exploring Android development
-- Always eager to learn new technologies and improve my skills
-- **Sales Manager with 2 years of professional experience**
-- Using **Google Pixel 7a & Apple MacBook Air M1 2020**
-
----
-
-##  Repositories & Projects
-
-Here are some highlights from my GitHub, currently containing around 13 repositories 1:
-
-###  Notable Projects
-
-- **[MAO Admin Panel](https://github.com/olegnck404/mao-admin-panel)**  
-  An admin panel for managing MAO restaurant staff—thesis project. Fullstack with TypeScript (React + Node.js + MongoDB), CI/CD, Clean Architecture, deployed and live 2.
-
-- **[OfferHunter](https://github.com/olegnck404/OfferHunter)**  
-  A Python CLI tool to scrape junior job listings from Djinni and DOU. Simple terminal UI, multi-keyword filters, job details output 3.
-
-- **[Telegram Bot for Redmi Note 5](https://github.com/olegnck404/telegram-bot-Python)**  
-  Built using pyTelegramBotAPI; provides firmware/app info, channels, chats; includes inline keyboards and error handling 4.
-
-- **[SnakeGame](https://github.com/olegnck404/SnakeGame)**  
-  A console-based Snake game in C++ using `ncurses`. Includes compilation and execution instructions; published with a release “Snake CLI 1.0.0” (May 25, 2023) 5.
-
-- **[Portfolio Website](https://github.com/olegnck404/olegnck404.github.io)**  
-  A polished portfolio site built with HTML, SCSS, JavaScript. Features responsive design, smooth scrolling, project showcases, dark/light themes, hosted on GitHub Pages 6.
-
-- **[OOP Practice Project (DyadechkoPractic)](https://github.com/olegnck404/DyadechkoPractic)**  
-  Java application focusing on object serialization and digit-counting logic. Includes `CalculatorApp.java` and documentation 7.
-
-Additional repositories (like CV, shopcheckBOT, etc.) showcase a range of personal experiments and utilities 8.
+- 🎓 Junior Bachelor in Software Engineering  
+- 🌍 Based in Poltava, Ukraine  
+- 💻 Passionate about building web applications with React & TypeScript  
+- 📱 Currently exploring Android development  
+- 🧠 Always eager to learn new technologies and improve my skills  
+- 💼 Sales Manager with 2 years of professional experience  
+- 🍏 Using Google Pixel 7a & Apple MacBook Air M1 2020  
 
 ---
 
-##  GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- keep your existing stat badges here -->
+  <img src="https://skillicons.dev/icons?i=typescript,react,vite,tailwindcss,html,css,javascript,python,java,sql,docker,git,github,vscode,figma,linux" alt="Tech Stack" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 📊 [MAO Admin Panel](https://github.com/olegnck404/mao-admin-panel)  
+An administrative panel for managing the MAO restaurant system. Built with React & TypeScript, Clean Architecture, CI/CD, Dockerized backend.
+
+### 🐍 [OfferHunter](https://github.com/olegnck404/OfferHunter)  
+Python CLI tool for scraping junior jobs from Djinni & DOU with filters and terminal UI.
+
+### 🤖 [Telegram Bot for Redmi Note 5](https://github.com/olegnck404/telegram-bot-Python)  
+Bot built with pyTelegramBotAPI to help users with firmware, apps & chats. Includes inline keyboards for easy navigation.
+
+### 🌐 [Portfolio Website](https://github.com/olegnck404/olegnck404.github.io)  
+Personal portfolio website showcasing my skills & projects. Responsive, dark/light theme, smooth animations.
+
+### 🎮 [SnakeGame](https://github.com/olegnck404/SnakeGame)  
+Console Snake game in C++ with `ncurses`. Includes compiled release.
+
+### 🧮 [OOP Practice Project](https://github.com/olegnck404/DyadechkoPractic)  
+Java project for OOP practice: serialization, digit-counting, CLI interface.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olegnck404&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olegnck404&layout=compact&theme=transparent" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=olegnck404&theme=transparent" alt="GitHub Streak" />
@@ -66,13 +67,11 @@ Additional repositories (like CV, shopcheckBOT, etc.) showcase a range of person
 
 ---
 
-##  Let’s Connect
+## 🤝 Let’s Connect
 
-- Telegram: [@olegnck](https://t.me/olegnck)  
-- Email: [olegdadecko1@gmail.com](mailto:olegdadecko1@gmail.com)  
-- Portfolio: [olegnck404.github.io](https://olegnck404.github.io)  
-- LinkedIn: [Oleh Dyadechko](https://www.linkedin.com/in/oleh-dyadechko-71b528353)
+- 💬 Telegram: [@olegnck](https://t.me/olegnck)  
+- 📧 Email: [olegdadecko1@gmail.com](mailto:olegdadecko1@gmail.com)  
+- 🌐 Portfolio: [olegnck404.github.io](https://olegnck404.github.io)  
+- 🔗 LinkedIn: [Oleh Dyadechko](https://www.linkedin.com/in/oleh-dyadechko-71b528353)  
 
 ---
-
-**Note**: I currently have **4 followers**, **1 following**, and around **13 repositories** 9. Let me know if you'd like to emphasize certain projects, achievements, or experiences more prominently!10
