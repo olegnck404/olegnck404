@@ -72,6 +72,6 @@ Java project for OOP practice: serialization, digit-counting, CLI interface.
 - 💬 Telegram: [@olegnck](https://t.me/olegnck)  
 - 📧 Email: [olegdadecko1@gmail.com](mailto:olegdadecko1@gmail.com)  
 - 🌐 Portfolio: [olegnck404.github.io](https://olegnck404.github.io)  
-- 🔗 LinkedIn: [Oleh Dyadechko](https://www.linkedin.com/in/oleh-dyadechko-71b528353)  
+- 🔗 LinkedIn: [Oleh Dyadechko](https://www.linkedin.com/in/oleh-diadechko-15b740259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
