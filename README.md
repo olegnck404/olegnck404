@@ -43,6 +43,9 @@ An administrative panel for managing the MAO restaurant system. Built with React
 ### 🐍 [OfferHunter](https://github.com/olegnck404/OfferHunter)  
 Python CLI tool for scraping junior jobs from Djinni & DOU with filters and terminal UI.
 
+### 🛒 [shopBot](https://github.com/olegnck404/shopBot)  
+A Telegram bot for managing a simple online store. Built with Python & Aiogram. This project was created as a practice assignment during my college studies. Features include product catalog browsing, cart management, and order handling.
+
 ### 🤖 [Telegram Bot for Redmi Note 5](https://github.com/olegnck404/telegram-bot-Python)  
 Bot built with pyTelegramBotAPI to help users with firmware, apps & chats. Includes inline keyboards for easy navigation.
 
